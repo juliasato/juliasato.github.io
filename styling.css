@@ -4,9 +4,11 @@ body {
 }
 
 .post {
+  margin: 0 auto;
   background-color: #ffd3d3;
   padding: 20px;
   padding-bottom: 2px;
+  width: 60%;
 }
 
 .post-title {
@@ -20,4 +22,5 @@ body {
 
 .post-footer {
   padding: 5px;
+  text-align: right;
 }
