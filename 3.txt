@@ -1,0 +1,1 @@
+i dont have msvsc on this computer just bluej and i immediately abandoned it after rediscovering it doesn't autofill curly braces
