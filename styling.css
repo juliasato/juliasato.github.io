@@ -1,19 +1,21 @@
 body {
   font-family: 'Quicksand', sans-serif;
   padding: 20px;
+  text-align: center;
 }
 
 .post {
   margin: 0 auto;
   margin-top: 6%;
   background-color: #ffd3d3;
-  padding: 2%;
+  padding: 1%;
   padding-top: .5%;
-  width: 50%;
+  width: 80%;
 }
 
 .post-title {
-  text-align: center;
+  text-align: left;
+  padding-left: 5%;
 }
 
 .post-content {
@@ -23,6 +25,5 @@ body {
 }
 
 embed {
-  text-align: left;
   padding: 5px;
 }
