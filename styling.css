@@ -24,6 +24,12 @@ body {
   width: 100%;
 }
 
+.footer {
+  padding: 3%;
+  margin: -75px 20 20 -100px;
+  margin-bottom: -1000px; 
+}
+
 embed {
   padding: 5px;
 }
