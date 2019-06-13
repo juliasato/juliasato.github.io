@@ -35,13 +35,23 @@ body {
 }
 
 .button {
+  height: 100%;
   color: white;
-  font-size: 22px;
-  border: 2px solid;
+  font-size: 17px;
+  border: none;
   background-color: transparent;
   padding: 2px 4px;
-  margin: 6px;
+  margin: auto 1%;
   display: inline-block;
+}
+
+.footer {
+  width: 100%;
+  background-color: #ffd3d3;
+  height: 30px;
+  text-align: right;
+  font-size: 12px;
+  margin-top: 8%;
 }
 
 embed {
