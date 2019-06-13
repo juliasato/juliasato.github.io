@@ -1,7 +1,17 @@
 body {
   font-family: 'Quicksand', sans-serif;
-  padding: 20px;
+  padding: 0;
   text-align: center;
+  margin: 0;
+}
+
+.top-menu {
+  width: 100%;
+  height: 45px;
+  background-color: #ffd3d3;
+  text-align: left;
+  position: sticky;
+  top: 0;
 }
 
 .post {
@@ -24,10 +34,14 @@ body {
   width: 100%;
 }
 
-.footer {
-  padding: 3%;
-  margin: -75px 20 20 -100px;
-  margin-bottom: -1000px; 
+.button {
+  color: white;
+  font-size: 22px;
+  border: 2px solid;
+  background-color: transparent;
+  padding: 2px 4px;
+  margin: 6px;
+  display: inline-block;
 }
 
 embed {

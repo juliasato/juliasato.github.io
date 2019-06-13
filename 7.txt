@@ -1,0 +1,3 @@
+the day i figure out percentages and mobile and web friendly design sure will be a day
+i added a sticky menu thing none of the buttons go anywhere valid
+css is confusing
